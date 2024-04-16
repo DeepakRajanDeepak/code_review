@@ -1,0 +1,57 @@
+{
+    "lang": {
+        "welcome": "Welcome to Bank. Choose your preferred langauge.",
+        "english": "Type \"en\" for English.",
+        "german": "Bitte geben Sie \"de\" für Deutsch ein.",
+        "french": "Veuillez taper \"fr\" pour le français",
+        "bad_lang": "Invalid language. \"en\", \"de\", \"fr\" codes only."
+    },
+    "en": {
+        "welcome": "Welcome to Mortgage Calculator!",
+        "separator": "---------------------------------------------",
+        "loan": "Enter the loan amount.",
+        "bad_loan": "Invalid loan amount. Positive numbers only.",
+        "apr": "Enter the annual percentage rate, in %.",
+        "bad_apr": "Invalid APR. Positive numbers only.",
+        "years": "Enter number of years (can specify months next).",
+        "bad_years": "Invalid loan years. Whole numbers only.",
+        "months": "Enter the number of additional months.",
+        "bad_months": "Invalid loan months. Whole numbers only.",
+        "continue": "Another calculation? Type anything starting with letter y to continue, n to exit.",
+        "bad_continue": "Wrong input. Please enter \"y\" or \"n\".",
+        "result": "Your monthly payment is",
+        "farewell": "Thank you for using the mortgage calculator."
+    },
+    "de": {
+        "welcome": "Willkommen beim Hypothekenrechner!",
+        "separator": "---------------------------------------------",
+        "loan": "Geben Sie den Kreditbetrag ein.",
+        "bad_loan": "Ungültiger Kreditbetrag. Nur positive Zahlen.",
+        "apr": "Geben Sie den effektiven Jahreszins in \"%\" ein.",
+        "bad_apr": "Ungültiger effektiver Jahreszins. Nur positive Zahlen.",
+        "years": "Geben Sie die Anzahl der Jahre ein (als nächstes können Monate angegeben werden).",
+        "bad_years": "Ungültige Leihjahre. Nur ganze Zahlen.",
+        "months": "Geben Sie die Anzahl der zusätzlichen Monate ein.",
+        "bad_months": "Ungültige Leihmonate. Nur ganze Zahlen.",
+        "continue": "Noch eine Rechnung? Geben Sie einen beliebigen Buchstaben ein, der mit dem Buchstaben \"y\" beginnt, um fortzufahren, und \"n\", um den Vorgang zu beenden.",
+        "bad_continue": "Falsche Eingabe. Bitte geben Sie \"y\" oder \"n\" ein.",
+        "result": "Ihre monatliche Zahlung beträgt",
+        "farewell": "Vielen Dank, dass Sie den Hypothekenrechner nutzen."
+    },
+    "fr": {
+        "welcome": "Bienvenue sur le calculateur hypothécaire!",
+        "separator": "---------------------------------------------",
+        "loan": "Saisissez le montant du prêt.",
+        "bad_loan": "Montant du prêt invalide. Chiffres positifs uniquement.",
+        "apr": "Saisissez le taux annuel en pourcentage, en %.",
+        "bad_apr": "Taux de pourcentage annuel invalide. Chiffres positifs uniquement.",
+        "years": "Entrez le nombre d'années (vous pouvez spécifier les mois ensuite).",
+        "bad_years": "Années de prêt invalides. Nombres entiers uniquement.",
+        "months": "Entrez le nombre de mois supplémentaires.",
+        "bad_months": "Mois de prêt invalides. Nombres entiers uniquement.",
+        "continue": "Un autre calcul ? Tapez n'importe quoi commençant par la lettre \"y\" pour continuer, \"n\" pour quitter.",
+        "bad_continue": "Mauvaise entrée. Veuillez saisir \"y\" ou \"n\".",
+        "result": "Votre mensualité est",
+        "farewell": "Merci d'utiliser le calculateur hypothécaire."
+    }
+}
